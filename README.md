@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leonmelvin
+- 👀 I’m interested in lead your company to its success
+- 🌱 I’m currently learning laravel php
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me business@melvinleon.com
